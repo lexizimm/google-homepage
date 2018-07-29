@@ -1,14 +1,59 @@
-.header{
-        font-size: 15px;
-        font-family: futura;
-      }
-.rightalign{
-  
-}
-
-img {
+.imgcenter {
     display: block;
+    margin-top: 150px;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
+}
+
+ ul {
+    color: black; 
+    font-size: 15px;
+    font-family: futura; 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: black;  
+    display: inline;
+    font-size: 15px;
+    font-family: futura;  
+    width: 60px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+input{
+   box-shadow: 2px 2px 2px grey;
+   width: 40%;
+   height: 10px;
+   padding: 5px;
+}
+
+#container {
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+    display:inline-block;
+    border: 3px Grey;
+    padding: 10px;
+
+}
+
+button:hover {
+   box-shadow: 1px 1px 1px grey;
+  font-weight: 700;
+  color: black;
+   border: 3px grey;
 }
