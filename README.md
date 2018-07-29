@@ -1,4 +1,7 @@
 README.md
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
 Make a google homepage
 
 Stuff I am practicing
